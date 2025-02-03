@@ -62,9 +62,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@coffe3]https://www.frontendmentor.io/profile/coffe3
-- Twitter - [@coffe3z]https://x.com/coffe3z
+- Frontend Mentor - [@coffe3](https://www.frontendmentor.io/profile/coffe3)
+- Twitter - [@coffe3z](https://x.com/coffe3z)
 
 
 ## Acknowledgments
