@@ -1,0 +1,79 @@
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    height: 100%;
+    margin: 100px 0 100px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    border-radius: 20px ;
+    background-color: hsl(0, 0%, 100%);
+    width: 80%;
+    width: 540px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    font-family: Young Serif;
+    font-weight: 400;
+}
+
+p, li, td {
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 16px;
+    color: hsl(30, 10%, 34%);
+}
+
+.prep-time {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.prep-time li::marker {
+    color: hsl(332, 51%, 32%);
+}
+
+li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+
+.prep-time h2 {
+    color: hsl(332, 51%, 32%);
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr td:nth-child(2) {
+    color: hsl(14, 45%, 36%);
+}
+
+table td {
+    padding: 8px;
+    border-top: 1px solid;
+}
+
+table tr td:first-child, 
+table tr td:last-child {
+    border-top: 1px solid hsl(30, 18%, 87%); 
+    border-bottom: 1px solid hsl(30, 18%, 87%); 
+}
